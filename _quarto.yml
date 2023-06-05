@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    background: maroon
+    foreground: white
+    left:
+      - text: "A-Religion"
+        href: index.qmd
+      - text: "Other data projects"
+        href: https://johannabirnir.com/data.html
+      - text: "Home"
+        href: https://johannabirnir.com/ 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

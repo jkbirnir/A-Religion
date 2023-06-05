@@ -1,0 +1,23 @@
+---
+title: "A-Religion"
+---
+
+This is the A-Religion (All (AMAR) Religion) website. A-Religion codes all AMAR Groups for religious families and sects (Muslim and Christian groups).
+
+On this page you can find links to publications outlining the structure and purpose of the A-Religion data. There are also links to the data produced in the project. This project subscribes to full transparency so you can also find here detailed sources and notes about the coding we did for each group in each country.
+
+Please note that we are are working on a more user friendly interface for downloading and working with the data and we also are in the process of updating the data so please be patient and check back frequently.
+
+If you are looking to use the on group religions in civil war. Please cite:
+
+Jóhanna K Birnir and Nil S Satana. The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War. Forthcoming. The Journal of Politics.
+
+The replication files are available [here.](files/)
+
+If you are looking to use the data on all group religions. Please cite:
+
+Jóhanna K Birnir and Nil S Satana. [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict.](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) 2022. Cambridge University Press.
+
+The group level codebook is available [here.](files/)
+The group level data are available [here.](files/)
+The notes and sources are available [here.](files/)
