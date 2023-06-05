@@ -1,12 +1,14 @@
 ---
-title: "A-Religion"
+title: ""
 ---
 
-This is the A-Religion (All (AMAR) Religion) website. A-Religion codes all AMAR Groups for religious families and sects (Muslim and Christian groups).
+This is the A-Religion (All-Religion) website. A-Religion codes all AMAR Groups for religious families and sects (Muslim and Christian groups).
 
 On this page you can find links to publications outlining the structure and purpose of the A-Religion data. There are also links to the data produced in the project. This project subscribes to full transparency so you can also find here detailed sources and notes about the coding we did for each group in each country.
 
 Please note that we are are working on a more user friendly interface for downloading and working with the data and we also are in the process of updating the data so please be patient and check back frequently.
+
+# The A-Religion Data
 
 If you are looking to use the on group religions in civil war. Please cite:
 
