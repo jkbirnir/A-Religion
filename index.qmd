@@ -12,14 +12,14 @@ Please note that we are are working on a more user friendly interface for downlo
 
 If you are looking to use the on group religions in civil war. Please cite:
 
-Jóhanna K Birnir and Nil S Satana. The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War. Forthcoming. The Journal of Politics.
+Jóhanna K Birnir and Nil S Satana. [The Challenger's Winning Coalition: Mobilization of Religion in Ethnic Civil War.](https://www.journals.uchicago.edu/doi/10.1086/723972). 2023. *The Journal of Politics.*
 
-The replication files are available [here.](files/)
+The replication files are available [here.](files/CWC_replication)
 
 If you are looking to use the data on all group religions. Please cite:
 
 Jóhanna K Birnir and Nil S Satana. [Alternatives in Mobilization: Ethnicity, Religion and Political Conflict.](https://www.amazon.com/Alternatives-Mobilization-Ethnicity-Religion-Political-ebook/dp/B09YM2XZFT/ref=sr_1_3?crid=3BVVYV26GAIY4&keywords=Birnir+Johanna&qid=1677881510&sprefix=birnir+johanna%2Caps%2C144&sr=8-3) 2022. Cambridge University Press.
 
-The group level codebook is available [here.](files/)
-The group level data are available [here.](files/)
-The notes and sources are available [here.](files/)
+The group level codebook is available [here.](files/A-Religion_CodebookV1.pdf)
+The group level data are available [here.](files/A-Religion.V2.xlsx)
+The notes and sources are available [here.](files/A-Religion_Notes_and_Sources.pdf)
